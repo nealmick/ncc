@@ -1,4 +1,4 @@
-#NCC a Python to C++ Cross Compiler
+# NCC a Python to C++ Cross Compiler
 
 make
 ./ncc test.py
